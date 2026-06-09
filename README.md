@@ -106,26 +106,3 @@ This project demonstrates how advanced SQL techniques can be used to extract val
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-About
-Capstone Project Million-Row Apple_stores_Analysis
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-1
-@kushwahRahul9809
-kushwahRahul9809 Rahul Kushwaha
-Footer
-© 2026 Git
