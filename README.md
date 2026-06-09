@@ -1,4 +1,5 @@
 #Capstone Project Million-Row Apple_Stores_Analysis
+
 #Overview
 In this capstone project, you will work with a real-world retail sales database containing over 1 million transaction records. Your goal is to write progressively complex SQL queries — from simple aggregations to advanced window functions and CTEs — to extract meaningful business intelligence from raw data.
 
@@ -107,6 +108,6 @@ No packages published
 Contributors
 1
 @Rahul9809
-Rajan9809 Rahul Kushwaha
+Rahul9809 Rahul Kushwaha
 Footer
 © 2026 Git
