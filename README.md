@@ -125,7 +125,7 @@ Packages
 No packages published
 Contributors
 1
-@Rahul9809
-Rahul9809 Rahul Kushwaha
+@kushwahRahul9809
+kushwahRahul9809 Rahul Kushwaha
 Footer
 © 2026 Git
